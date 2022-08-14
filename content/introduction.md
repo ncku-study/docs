@@ -1,37 +1,19 @@
 ---
-title: "Introduction"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+title: "簡介"
+metaTitle: "Introduction"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Markdown link handling for relative and absolute URLs. Easy to customise.
+# Tech stack ( PHP Version )
+- Frontend: 
+    - React.js: `16.9`
+    - material-ui: `4.11.3`
+- Backend: 
+    - PHP: `>=7.0.0`
+    - Lavavel: `6.0`
+    - Google App Script
+- DB:
+    - MYSQL: `5.0.12`
 
-# Heading H1
-Heading 1 text
-
-## Heading H2
-Heading 2 text
-
-### Heading H3
-Heading 3 text
-
-#### Heading H4
-Heading 4 text
-
-##### Heading H5
-Heading 5 text
-
-###### Heading H6
-Heading 6 text
-
-## Lists
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
-## Links
-
-* Relative: [Codeblock](/codeblock)
-* Absolute: [Demo](https://learn.hasura.io/graphql/react)
+# 相關連結
+- [開發注意事項](/notice)
+- [API](/API)
